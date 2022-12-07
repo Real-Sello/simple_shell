@@ -5,7 +5,7 @@
 ## :pushpin: Description
 
 ## :triangular_flag_on_post: Project Requirements
--General
+- General
 	- Allowed editors: [Vi](https://en.wikipedia.org/wiki/Vi), [Vim](https://en.wikipedia.org/wiki/Vim_(text_editor)), [Emacs](https://en.wikipedia.org/wiki/Emacs)
 	- All our files will be compiled on Ubuntu 20.04 LTS using ```gcc```, using the options ```-Wall -		Werror -Wextra -pedantic -std=gnu89```
 	- All our files should end with a new line
