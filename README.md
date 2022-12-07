@@ -1,6 +1,6 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" width=150 height=150/> 
 
-# Simple Shell Team Project
+#C-Simple Shell Team Project
 
 ## :pushpin: Description
 
@@ -22,7 +22,21 @@
 	All files in this project will be compiled using:
 	```gcc -Wall -Werror -Wextra -pedantic -std=gnu89 *.c -o hsh```
 
-
+## 💡 Learning Objectives
+- Who designed and implemented the original Unix operating system
+- Who wrote the first version of the UNIX shell
+- Who invented the B programming language (the direct predecessor to the C programming language)
+- Who is Ken Thompson
+- How does a shell work
+- What is a pid and a ppid
+- How to manipulate the environment of the current process
+- What is the difference between a function and a system call
+- How to create processes
+- What are the three prototypes of ```main```
+- How does the shell use the ```PATH``` to find the programs
+- How to execute another program with the ```execve``` system call
+- How to suspend the execution of a process until one of its children terminates
+- What is ```EOF``` / “end-of-file”?
 ___
 ## :bust_in_silhouette: Authors
 
