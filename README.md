@@ -1,6 +1,6 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" width=150 height=150/> 
 
-#C-Simple Shell Team Project
+# C-Simple Shell Team Project
 
 ## :pushpin: Description
 This repository includes all project files for Simple Shell project written in C programming language, as part of the ALX Africa Software Engineering program for cohort 10.
