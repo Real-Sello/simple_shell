@@ -3,7 +3,7 @@
 #C-Simple Shell Team Project
 
 ## :pushpin: Description
-
+This repository includes all project files for Simple Shell project written in C programming language, as part of the ALX Africa Software Engineering program for cohort 10.
 ## :triangular_flag_on_post: Project Requirements
 - General
 	- Allowed editors: [Vi](https://en.wikipedia.org/wiki/Vi), [Vim](https://en.wikipedia.org/wiki/Vim_(text_editor)), [Emacs](https://en.wikipedia.org/wiki/Emacs)
