@@ -1,4 +1,4 @@
-<img src="https://bashlogo.com/img/logo/png/full_colored_dark.png" width=150 height=150/> 
+<img src="https://bashlogo.com/img/logo/png/full_colored_dark.png"/> 
 
 # C-Simple Shell Team Project
 
