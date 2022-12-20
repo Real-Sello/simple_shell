@@ -1,5 +1,4 @@
 #include "shell.h"
-
 /**
  * hsh - main shell loop
  * @info: the parameter & return info struct
@@ -7,6 +6,7 @@
  *
  * Return: 0 on success, 1 on error, or error code
  */
+ 
 int hsh(info_t *info, char **av)
 {
 	ssize_t r = 0;
@@ -125,6 +125,7 @@ void find_cmd(info_t *info)
  *
  * Return: void
  */
+ 
 void fork_cmd(info_t *info)
 {
 	pid_t child_pid;
